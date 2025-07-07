@@ -109,7 +109,4 @@ npm run dev
 MIT
 
 ---
-
-## 🙏 Credits
-- Samosa logo and wordmark by FileSamosa team
 - Built with ❤️ using Next.js, React, PeerJS, and Redis 
