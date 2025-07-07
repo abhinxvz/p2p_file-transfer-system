@@ -30,7 +30,7 @@ export default async function DownloadPage({
 
   return (
     <div className="flex flex-col items-center space-y-5 py-10 max-w-2xl mx-auto">
-      <Spinner />
+      <Spinner direction="down" />
       <Wordmark />
       <WebRTCPeerProvider>
         <Downloader uploaderPeerID={channel.uploaderPeerID} />

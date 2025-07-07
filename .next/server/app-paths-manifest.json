@@ -1,0 +1,6 @@
+{
+  "/api/renew/route": "app/api/renew/route.js",
+  "/api/ice/route": "app/api/ice/route.js",
+  "/download/[...slug]/page": "app/download/[...slug]/page.js",
+  "/page": "app/page.js"
+}
