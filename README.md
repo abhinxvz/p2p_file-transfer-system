@@ -32,8 +32,8 @@ FileSamosa is a privacy-first, peer-to-peer file sharing app that works directly
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/filesamosa.git
-cd filesamosa
+git clone https://github.com/abhinxvz/file_samosa.git
+cd file_samosa
 ```
 
 ### 2. Install dependencies
