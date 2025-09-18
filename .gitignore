@@ -22,3 +22,4 @@ bun.lock
 postcss.config.js
 tailwind.config.js
 playwright.config.js
+.next
